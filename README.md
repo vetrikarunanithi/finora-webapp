@@ -18,7 +18,7 @@ It helps users manage personal finances, track expenses, handle wallet transacti
 
 # Finora Quick Start Guide
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Login (Mobile + Password Only)
 ```
@@ -29,7 +29,7 @@ It helps users manage personal finances, track expenses, handle wallet transacti
 
 ---
 
-## 📱 Main Features
+## Main Features
 
 ### 1. Banking & Payments (Unified)
 **Location:** Sidebar → "Banking & Payments"
@@ -64,11 +64,11 @@ It helps users manage personal finances, track expenses, handle wallet transacti
 **Access:** Wallet → Quick Actions → "What If"
 
 #### Categories Available:
-1. **Groceries** 🛒 - ₹8,000/month avg
-2. **Transportation** 🚗 - ₹5,000/month avg
-3. **Entertainment** 🎬 - ₹3,000/month avg
-4. **Dining Out** 🍽️ - ₹6,000/month avg
-5. **Shopping** 🛍️ - ₹7,000/month avg
+1. **Groceries**  - ₹8,000/month avg
+2. **Transportation**  - ₹5,000/month avg
+3. **Entertainment**  - ₹3,000/month avg
+4. **Dining Out**  - ₹6,000/month avg
+5. **Shopping**  - ₹7,000/month avg
 
 #### How to Use:
 ```
@@ -85,7 +85,7 @@ It helps users manage personal finances, track expenses, handle wallet transacti
 
 ---
 
-## 🎯 Quick Actions
+## Quick Actions
 
 ### From Finora Wallet:
 - **Scan & Pay** - QR code payments
@@ -103,7 +103,7 @@ It helps users manage personal finances, track expenses, handle wallet transacti
 
 ---
 
-## 💡 Pro Tips
+## Pro Tips
 
 ### Login:
 - Use 10-digit mobile number (no +91)
@@ -130,7 +130,7 @@ It helps users manage personal finances, track expenses, handle wallet transacti
 
 ---
 
-## 📊 Understanding Charts
+## Understanding Charts
 
 ### Monthly Trend (Banking Overview)
 - **Green Area:** Income
@@ -151,7 +151,7 @@ It helps users manage personal finances, track expenses, handle wallet transacti
 
 ---
 
-## 🔔 Notifications
+##  Notifications
 
 ### Success Messages:
 ✅ "Login successful! Welcome back Neeru 👋"
@@ -170,7 +170,7 @@ It helps users manage personal finances, track expenses, handle wallet transacti
 
 ---
 
-## 📱 Navigation Structure
+## Navigation Structure
 
 ```
 Finora
@@ -196,7 +196,7 @@ Finora
 
 ---
 
-## 🎨 Color Guide
+## Color Guide
 
 ### Status Colors:
 - **Green (#10B981):** Income, Savings, Success
@@ -214,7 +214,7 @@ Finora
 
 ---
 
-## 🔐 Security & Privacy
+## Security & Privacy
 
 ### Data Storage:
 - All data stored locally in browser
@@ -230,7 +230,7 @@ Finora
 
 ---
 
-## ❓ FAQ
+## FAQ
 
 ### Q: Can I use email to login?
 **A:** No, currently only mobile number + password is supported.
@@ -252,7 +252,7 @@ Finora
 
 ---
 
-## 🆘 Need Help?
+## Need Help?
 
 ### AI Assistant:
 - Click the chat icon (bottom-right)
@@ -267,29 +267,29 @@ Finora
 
 ---
 
-## 🎉 New Features Highlights
+## New Features Highlights
 
-### ✨ Login Simplified
+### Login Simplified
 - Mobile number + password only
 - Faster authentication
 - Better security
 
-### ✨ Banking & Payments Unified
+### Banking & Payments Unified
 - One place for everything
 - No menu switching
 - Seamless experience
 
-### ✨ Real-Time Analytics
+### Real-Time Analytics
 - Live data updates
 - Instant calculations
 - Always current
 
-### ✨ Enhanced AI Forecast
+### Enhanced AI Forecast
 - Predictive analytics
 - Category breakdowns
 - Actionable recommendations
 
-### ✨ What-If Simulator
+### What-If Simulator
 - 5 category options
 - 3 analysis tabs
 - Visual projections
@@ -297,7 +297,7 @@ Finora
 
 ---
 
-## 📞 Support
+## Support
 
 For issues or feedback:
 - Use the AI Chat Assistant
@@ -306,7 +306,7 @@ For issues or feedback:
 
 ---
 
-**Happy Financial Planning! 💰**
+**Happy Financial Planning!**
 
 *Finora - AI-Powered Finance & Payment Tracking*
 
