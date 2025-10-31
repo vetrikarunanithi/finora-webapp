@@ -44,6 +44,20 @@ finora/
 ├── App.tsx
 └── package.json
 ```
+## Screenshots
+
+| Login | Wallet Dashboard | Expense Tracker |
+|--------|------------------|-----------------|
+| <img src="screenshots/login.png" width="220"> | <img src="screenshots/wallet_dashboard.png" width="220"> | <img src="screenshots/expenses.png" width="220"> |
+
+| AI Assistant | Coupon Marketplace | Smart Split |
+|--------------|--------------------|--------------|
+| <img src="screenshots/ai_assistant.png" width="220"> | <img src="screenshots/coupons.png" width="220"> | <img src="screenshots/split_bill.png" width="220"> |
+
+| Geo Spending Map | Reports | Settings |
+|------------------|----------|-----------|
+| <img src="screenshots/geo_map.png" width="220"> | <img src="screenshots/reports.png" width="220"> | <img src="screenshots/settings.png" width="220"> |
+
 ## Live Demo
 Webapp will be live for demo soon...
 
