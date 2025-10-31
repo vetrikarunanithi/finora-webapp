@@ -25,5 +25,29 @@ It helps users manage personal finances, track expenses, handle wallet transacti
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
+```
+finora/
+├── backend/
+│ ├── main.py
+│ ├── routes/
+│ ├── models/
+│ ├── utils/
+│ └── data/
+└── frontend/
+├── src/
+├── components/
+├── guidelines/
+├── styles/
+├── utils/
+├── public/
+├── App.tsx
+└── package.json
+```
+## Live Demo
+Webapp will be live for demo soon...
 
+## Author
+**Vetriselvan Karunanithi**  
+GitHub: [vetrikarunanithi](https://github.com/vetrikarunanithi)  
+LinkedIn: [Vetriselvan Karunanithi](https://www.linkedin.com/in/vetriselvank)
