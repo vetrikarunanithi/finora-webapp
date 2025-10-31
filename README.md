@@ -343,11 +343,11 @@ finora/
 
 | Login | Wallet Dashboard | Expense Tracker |
 |--------|------------------|-----------------|
-| <img src="screenshots/login_f.png" width="220"> | <img src="screenshots/bank_f.png" width="220"> | <img src="screenshots/budget_f.png" width="220"> |
+| <img src="screenshots/login_f.png" width="220"> | <img src="screenshots/dash_f.png" width="220"> | <img src="screenshots/budget_f.png" width="220"> |
 
 | AI Assistant | Coupon Marketplace | Smart Split |
 |--------------|--------------------|--------------|
-| <img src="screenshots/what_f.png" width="220"> | <img src="screenshots/coupon_f.png" width="220"> | <img src="screenshots/split_bill.png" width="220"> |
+| <img src="screenshots/what_f.png" width="220"> | <img src="screenshots/coupon_f.png" width="220"> | <img src="screenshots/bank_f.png" width="220"> |
 
 | Geo Spending Map | Reports | Settings |
 |------------------|----------|-----------|
