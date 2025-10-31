@@ -1,11 +1,11 @@
-# 💸 Finora — Personal Finance Tracking Web App
+# Finora — Personal Finance Tracking Web App
 
 Finora is a web application developed during **Prompt-a-thon 2025 (24-hour hackathon at VIT Chennai)**.  
 It helps users manage personal finances, track expenses, handle wallet transactions, and share coupons with others.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Wallet Management** – View and manage all transactions in one place.  
 - **Expense Tracking** – Add, categorize, and view daily expenses.  
@@ -16,7 +16,7 @@ It helps users manage personal finances, track expenses, handle wallet transacti
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:** React.js, TypeScript, Vite, CSS  
 **Backend:** Python (Flask)  
